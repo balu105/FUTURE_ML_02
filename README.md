@@ -38,4 +38,4 @@ This project aims to predict the box office revenue of movies based on various f
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/movie-box-office-prediction.git
+   git clone [https://github.com/your-username/movie-box-office-prediction.git](https://github.com/balu105/FUTURE_ML_02)
