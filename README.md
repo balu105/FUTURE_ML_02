@@ -42,4 +42,4 @@ This project aims to predict the box office revenue of movies based on various f
 ##Feel free to reach out for any questions or collaborations:
 
 Email: balajikc89@gmail.com
-LinkedIn: 
+LinkedIn: https://www.linkedin.com/in/kandanathi-chittem-balaji/
